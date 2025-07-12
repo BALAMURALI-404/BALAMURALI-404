@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balamurali-404" alt="balamurali-404" /></a> </p>
 
-- Hi, I'm Balamurali [Portfolio](Portfolio)
+- Hi, I'm Balamurali [Portfolio](https://github.com/BALAMURALI-404/Portolio)
 
 - 🌱 I’m currently learning **Back End Development**
 
